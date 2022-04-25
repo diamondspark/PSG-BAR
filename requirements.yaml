@@ -1,0 +1,36 @@
+name: psg-bar
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+  - pytorch
+  - pyg
+  - salilab
+dependencies:
+  - nvidia::cudatoolkit=11.1
+  - python=3.8
+  - pytorch::pytorch=1.9.0
+  - pyg=2.0.3
+  - rdkit
+  - pip
+  - numpy
+  - pillow
+  - yaml
+  - pyyaml
+  - matplotlib
+  - jupyter
+  - protobuf
+  - tqdm
+  - dssp
+  - pip:
+#     - flask
+    - scipy==1.7.3
+    - biopython==1.79
+    - requests==2.26.0
+    - wget==3.2
+    - pandas==1.4.0
+    - fair-esm
+    - graphein==1.0.10
+    - deepchem==2.5.0
+    - wandb==0.12.9
+    - tensorflow-gpu==2.7.0
