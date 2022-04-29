@@ -1,7 +1,5 @@
 # PSG-BAR
 
-![PSG-BAR Architecture diagram] (https://github.com/diamondspark/PSG-BAR/blob/main/architecture.png?raw=true)
-
 PSG-BAR: Protein Structure Graph- Binding Affinity Regression is geometric deep learning inspired tool utilizing 3D structure of proteins to predict binding affinity of protein-ligand complexes.
 https://doi.org/10.1101/2022.04.27.489750
 ## Requirements
