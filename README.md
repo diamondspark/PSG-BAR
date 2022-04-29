@@ -11,7 +11,8 @@ Cuda enabled GPU. Recommended Tesla V100 (it's equivalent or above).
 ```
 ## Training Model
 ### For Binding Affinity regression on custom dataset
-Create a dataset similar to [here](/data/DPI/PDBBind_Sample/sample_pdbbind_dataset.csv). Then follow instructions in [Demo-Elements](Demo-Elements.ipynb) to train the model.
+https://github.com/diamondspark/PSG-BAR/blob/main/data/DPI/PDBBind_Sample/sample_pdbbind_dataset.csv
+Create a dataset similar to [here](https://github.com/diamondspark/PSG-BAR/tree/main/data/DPI/PDBBind_Sample/sample_pdbbind_dataset.csv). Then follow instructions in [Demo-Elements](Demo-Elements.ipynb) to train the model.
 
 ## Citation
 ```
